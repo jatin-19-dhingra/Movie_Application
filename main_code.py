@@ -46,7 +46,7 @@ def MENU():
             select=user_option[entry]
             select()
         else:
-            print("invalid input ")
+            print("Invalid input ")
 
         entry=input(menu)
 
